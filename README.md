@@ -7,3 +7,4 @@ https://leetcode.com/study-plan/algorithm/
 | Binary Search | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/74-search-2d-matrix.js)| 
 | Binary Search | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/search-a-2d-matrix/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/153-find-minimum-in-rotated-sorted-array.js)| 
 | 2 Pointer | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/82-remove-duplicates-from-sorted-list-ii.js) |
+| BFS | [200. Number of Islands]([https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/](https://leetcode.com/problems/number-of-islands/)) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/200-num-islands.js) |
