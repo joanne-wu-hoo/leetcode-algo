@@ -10,6 +10,7 @@ https://leetcode.com/study-plan/algorithm/
 | BFS | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/200-num-islands.js) |
 | DFS | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/130-surrounded-regions.js) |
 | Recursion/Backtracking | [78. Subsets](https://leetcode.com/problems/subsets/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/78-subsets.js) |
+| Recursion/Backtracking | [39. Combo Sum](https://leetcode.com/problems/combination-sum/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/39-combo-sum.js) |
 
 Misc.
 | Topic | Problem | Solution |
