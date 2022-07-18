@@ -9,7 +9,7 @@ https://leetcode.com/study-plan/algorithm/
 | 2 Pointer | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/82-remove-duplicates-from-sorted-list-ii.js) |
 | BFS | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/200-num-islands.js) |
 | DFS | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/130-surrounded-regions.js) |
-| Recursion/Backtracking | [78. Subsets]([https://leetcode.com/problems/surrounded-regions/](https://leetcode.com/problems/subsets/)) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/78-subsets.js) |
+| Recursion/Backtracking | [78. Subsets](https://leetcode.com/problems/subsets/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/78-subsets.js) |
 
 Misc.
 | Topic | Problem | Solution |
