@@ -14,3 +14,4 @@ Misc.
 | Topic | Problem | Solution |
 | --- | ---     | ---      |
 | Tree | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/100-same-tree.js) |
+| Tree | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/236-lowest-common-ancestor-of-a-binary-tree.js) |
