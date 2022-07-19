@@ -24,7 +24,8 @@ Misc.
 Trees
 ![image](https://user-images.githubusercontent.com/38114845/179821065-ffbcf881-70ed-4c16-9266-f2c5b33515d2.png)
 DFS in BST https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/
-- In order (left, do/root, right)
-- Post order (left, right, do/root)
-- Pre order (do/root, left, right)
+![image](https://user-images.githubusercontent.com/38114845/179821969-709ccadf-b8cb-4fe1-82bf-edef7b391942.png)
+- In order (left, do/root, right):  4 2 5 1 6 3 7
+- Post order (left, right, do/root): 4 5 2 6 7 3 1
+- Pre order (do/root, left, right): 1 2 4 5 3 6 7
 
