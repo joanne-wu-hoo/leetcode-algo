@@ -20,3 +20,11 @@ Misc.
 | Tree | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/100-same-tree.js) |
 | Tree | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/236-lowest-common-ancestor-of-a-binary-tree.js) |
 | Tree | [104. Max Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/104-maximum-depth-of-binary-tree.js) |
+
+Trees
+![image](https://user-images.githubusercontent.com/38114845/179821065-ffbcf881-70ed-4c16-9266-f2c5b33515d2.png)
+DFS in BST https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/
+- In order (left, do/root, right)
+- Post order (left, right, do/root)
+- Pre order (do/root, left, right)
+
