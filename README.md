@@ -22,7 +22,7 @@ https://leetcode.com/study-plan/data-structure/
 | Tree | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/236-lowest-common-ancestor-of-a-binary-tree.js) |
 | Tree | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/105-construct-binary-tree-from-preorder-and-inorder-traversal.js) |
 | Tree | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/106-construct-binary-tree-from-inorder-and-postorder-traversal.js) |
-| Array | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/75-sort-colors.js) |
+| Array | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/75-sort-colors.js) |
 
 Misc.
 | Topic | Problem | Solution |
