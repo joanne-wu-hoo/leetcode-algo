@@ -34,6 +34,7 @@ Misc.
 | --- | ---     | ---      |
 | Tree | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/100-same-tree.js) |
 | Tree | [104. Max Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/104-maximum-depth-of-binary-tree.js) |
+| Tree | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/617-merge-two-binary-trees.js) |
 
 Trees
 ![image](https://user-images.githubusercontent.com/38114845/179821065-ffbcf881-70ed-4c16-9266-f2c5b33515d2.png)
