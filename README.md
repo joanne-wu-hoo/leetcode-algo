@@ -28,6 +28,7 @@ https://leetcode.com/study-plan/data-structure/
 | Array | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/75-sort-colors.js) |
 | Array | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/56-merge-intervals.js) 
 | Array | [560. Subarray Sum Equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/560-subarray-sum-equals-k.js) |
+| Linked List | [92. Reverse LL from N to M](https://leetcode.com/problems/reverse-linked-list-ii/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/92-reverse-linked-list-ii.js) | 
 
 Misc.
 | Topic | Problem | Solution |
