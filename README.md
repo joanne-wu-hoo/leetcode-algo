@@ -39,8 +39,9 @@ Misc.
 | Tree | [110. Balanced Binry Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/110-balanced-binary-tree.js) |
 | Tree | [230. Kth Smallest Element](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/230-kth-smallest-element-in-a-bst.js) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/230-kth-smallest-element-in-a-bst.js) |
 | Tree | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/617-merge-two-binary-trees.js) |
-| Trees | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/257-binary-tree-paths.js) |
+| Tree | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/257-binary-tree-paths.js) |
 | Tree | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/102-binary-tree-level-order-traversal.js) |
+| Tree | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/103-binary-tree-zigzag-level-order-traversal.js) |
 | Array | [80. Remove Dups From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/80-remove-dups-from-sorted-array-ii.js) |
 
 Trees
