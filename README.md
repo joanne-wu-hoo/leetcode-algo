@@ -16,7 +16,7 @@ https://leetcode.com/study-plan/algorithm/
 | Recursion/Backtracking | [39. Combo Sum](https://leetcode.com/problems/combination-sum/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/39-combo-sum.js) |
 | Sliding Window | [438. Find Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/438-find-all-anagrams-in-a-string.js) |
 | Sliding Window | [209. Min Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/209-minimum-size-subarray-sum.js) |
-| Sliding Window ] [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/904-fruit-into-baskets.js) |
+| Sliding Window | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/904-fruit-into-baskets.js) |
 | Strings | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/242-valid-anagram.js) |
 
 https://leetcode.com/study-plan/data-structure/
