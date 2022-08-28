@@ -16,6 +16,7 @@ https://leetcode.com/study-plan/algorithm/
 | Recursion/Backtracking | [39. Combo Sum](https://leetcode.com/problems/combination-sum/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/39-combo-sum.js) |
 | Sliding Window | [438. Find Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/438-find-all-anagrams-in-a-string.js) |
 | Sliding Window | [209. Min Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/209-minimum-size-subarray-sum.js) |
+| Sliding Window ] [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/904-fruit-into-baskets.js) |
 | Strings | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/242-valid-anagram.js) |
 
 https://leetcode.com/study-plan/data-structure/
@@ -31,6 +32,7 @@ https://leetcode.com/study-plan/data-structure/
 | Array | [560. Subarray Sum Equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/560-subarray-sum-equals-k.js) |
 | Linked List | [92. Reverse LL from N to M](https://leetcode.com/problems/reverse-linked-list-ii/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/92-reverse-linked-list-ii.js) | 
 | Stack | [20. Valid Parens](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/20-valid-parens.js) |
+
 
 Misc.
 | Topic | Problem | Solution |
