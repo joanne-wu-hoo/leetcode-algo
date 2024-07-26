@@ -47,7 +47,7 @@ Misc.
 | Tree | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/102-binary-tree-level-order-traversal.js) |
 | Tree | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/103-binary-tree-zigzag-level-order-traversal.js) |
 | Array | [80. Remove Dups From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/80-remove-dups-from-sorted-array-ii.js) |
-
+| Array, 2 Pointer | [88. Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/88-merge-sorted-array.js) |
 Trees
 ![image](https://user-images.githubusercontent.com/38114845/179821065-ffbcf881-70ed-4c16-9266-f2c5b33515d2.png)
 
