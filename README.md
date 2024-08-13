@@ -7,6 +7,7 @@ https://leetcode.com/study-plan/algorithm/
 | Binary Search | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/278-first-bad-version.js) |
 | Binary Search | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/74-search-2d-matrix.js)| 
 | Binary Search | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/search-a-2d-matrix/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/153-find-minimum-in-rotated-sorted-array.js)| 
+| 2 Pointer | [392. Is subsequence](https://leetcode.com/problems/is-subsequence) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/392-is-subsequence.js)
 | 2 Pointer | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/82-remove-duplicates-from-sorted-list-ii.js) |
 | 2 Pointer | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/283-move-zeroes.js) | 
 | 2 Pointer | [267. Two Sum w/ Sorted Input Array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/167-two-sum-ii-input-array-is-sorted.js) |
