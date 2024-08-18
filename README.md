@@ -11,6 +11,7 @@
 | 2 Pointer | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/82-remove-duplicates-from-sorted-list-ii.js) |
 | 2 Pointer | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/283-move-zeroes.js) | 
 | 2 Pointer | [267. Two Sum w/ Sorted Input Array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/167-two-sum-ii-input-array-is-sorted.js) |
+| 2 Pointer | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/121-best-time-to-buy-and-sell-stock.js) |
 | BFS | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/200-num-islands.js) |
 | DFS | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/130-surrounded-regions.js) |
 | Recursion/Backtracking | [78. Subsets](https://leetcode.com/problems/subsets/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/78-subsets.js) |
