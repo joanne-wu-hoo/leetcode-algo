@@ -1,4 +1,4 @@
-https://leetcode.com/study-plan/algorithm/
+### Algorithm
 
 | Topic | Problem | Solution |
 | --- | ---     | ---      |
@@ -21,7 +21,7 @@ https://leetcode.com/study-plan/algorithm/
 | Sliding Window | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/904-fruit-into-baskets.js) |
 | Strings | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/242-valid-anagram.js) |
 
-https://leetcode.com/study-plan/data-structure/
+### Data Structures
 
 | Topic | Problem | Solution |
 | --- | ---     | ---      |
@@ -36,7 +36,8 @@ https://leetcode.com/study-plan/data-structure/
 | Stack | [20. Valid Parens](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/20-valid-parens.js) |
 
 
-Misc.
+### Misc.
+
 | Topic | Problem | Solution |
 | --- | ---     | ---      |
 | Tree | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/100-same-tree.js) |
