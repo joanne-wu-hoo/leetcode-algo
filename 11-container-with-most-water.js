@@ -35,4 +35,8 @@ for each iteration
 - we can either try to maximize width OR height
   always move the pointer pointing to the SHORTER line INWARD
 
+continue evaluating whie left < right
+
+return max area at end
+
 */
