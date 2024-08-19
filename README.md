@@ -20,6 +20,7 @@
 | Sliding Window | [209. Min Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/209-minimum-size-subarray-sum.js) |
 | Sliding Window | [3. Longest Substring w/o Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=study-plan-v2&envId=top-interview-150) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/3-longest-substring-without-repeating-characters.js)
 | Sliding Window | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/904-fruit-into-baskets.js) |
+| Sliding Window | [11. Container with most water](https://leetcode.com/problems/container-with-most-water) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/11-container-with-most-water.js)
 | Strings | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Link](https://github.com/joanne-wu-hoo/leetcode-algo/blob/main/242-valid-anagram.js) |
 
 ### Data Structures
