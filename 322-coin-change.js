@@ -40,6 +40,8 @@ return early cases
 - if every coin amount is greater than amount, return -1
 - if amount is 0, return 0
 
+dp array where each entry = minimum number of coins needed to sum up to value
+dp[0] = 0
 for i = 1 -> amount, fill in dp array
 dp[i] = 1 + min(dp[i-coin1], dp[i-coin2], etc...)
 
